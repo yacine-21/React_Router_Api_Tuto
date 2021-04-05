@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+THIS IS A REACT PROJET, I FOLLOWED A TUTORIAL ON YOUTUBE, I'M LEARNING USING REACT SO HERE A SIMPLE CALL OF FORTNITE API TO DISPLAY SOME STUFFS, WITH MANY ROUTES : THE TUTO : https://www.youtube.com/watch?v=Law7wfdg_ls&ab_channel=DevEd
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
